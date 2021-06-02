@@ -26,7 +26,7 @@
          "context": [""]
         },
         {"tag": "courses",
-         "patterns": ["what courses do you provide?", "How many courses are provided?", "Give me a list of courses available", "List all courses suitable for my kid", "Which courses do help my kid","what basics do you teach at your platform?" ],
+         "patterns": ["Types of Courses","what courses do you provide?", "How many courses are provided?", "Give me a list of courses available", "List all courses suitable for my kid", "Which courses do help my kid","what basics do you teach at your platform?"],
          "responses": ["WebDevelopment MobileAppDevelopment ArtificialIntelligence Pythonprogramming GameAppDevelopment"],
          "context": [""]
         },
@@ -38,12 +38,12 @@
                      "Is coding required at the age of 11?",
                      "Is coding required at the age of 12?",
                      "Is coding required at the age of 13?",
-                     "Is coding required at the age of 14?", "I want to have a look at the importance of coding", "Is coding needed?","Should the coding be taught at a younger age?","After seeing many ads of CodeKaroYaro my child has shown interest for coding.Is it good?" ],
+                     "Is coding required at the age of 14?", "I want to have a look at the importance of coding", "Is coding needed?","Should the coding be taught at a younger age?","After seeing many ads of CodeKaroYaro my child has shown interest for coding.Is it good?","What is impact of coding on my child at this stage?" ],
          "responses": ["Coding gives your child a competitive edge","Coding teaches persistence","Coding improves problem-solving skills","Coding improves creativity"],
          "context": [""]
         },
         {"tag": "programming_language",
-         "patterns": ["What programming language is suitable for my child to learn?", "What language is in trending?", "Which language does everyone expect a child to know?", "Which coding language is good to begin with?", "Guide us about the programming languages." ,"Can my child learn Java at your platform?","What coding languages do you teach?"],
+         "patterns": ["What programing languages do you teach?""What programming language is suitable for my child to learn?", "What language is in trending?", "Which language does everyone expect a child to know?", "Which coding language is good to begin with?", "Guide us about the programming languages." ,"Can my child learn Java at your platform?","What coding languages do you teach?"],
          "responses": ["This depends on the age of the child and if the child has prior knowledge of computer programming. Call to talk with our counselor to find out which course is most appropriate for your child."],
          "context": [""]
         },
@@ -133,7 +133,7 @@
          "context": [""]
         },
         {"tag": "suggestions",
-         "patterns": ["What could be a better course for my child?","Could you suggest any of the coureses?","Can my kid become a software engineer after attending these courses?","How to convince my child to join a course?","How does the course help him to do other chores such as homework etc?","Does the platform provide better experience than the other platforms?"],
+         "patterns": ["What could be a better course for my child?","Could you suggest any of the coureses?","Can my kid become a software engineer after attending these courses?","How to convince my child to join a course?","How does the course help him to do other chores such as homework etc?","Does the platform provide better experience than the other platforms?","What is best course for my kid"],
          "responses": ["It completely depends on the age and interest of an individual.Students need to be guided properly.You can contact us regarding this."],
          "context": [""]
         },
@@ -143,8 +143,8 @@
          "context": [""]
         },
         {"tag": "outcome",
-         "patterns": ["Can my child create an app on his own after finishing the course","Can my child build a game on his/her own?","Can my child write a program on his/her own?"],
-         "responses": ["Ofcourse,a student can create/build them with great ease after they finish their course."],
+         "patterns": ["Can my child create an app on his own after finishing the course","how will my child will be benefited by this course?","Can my child build a game on his/her own?","Can my child write a program on his/her own?"],
+         "responses": ["Ofcourse,a student can create/build apps with great ease after they finish their course."],
          "context": [""]
         },
         {"tag": "size",
@@ -153,8 +153,8 @@
          "context": [""]
         },
         {"tag": "time",
-         "patterns": ["How much time is allocated for a class?","What is the duration of a class?","How the time is allocated for the courses"],
-         "responses": ["It depends on the number of classes alloted.We make sure that an individual can learn effectively with all the available resources in an optimal time.Keeping in my mind the betterment of students and mentors we will divide the time in an efficient way."],
+         "patterns": ["How much time is allocated for a class?","What is the duration of a class?","How many hours do you teach everyday?","How the time is allocated for the courses","what are most regular timings?"],
+         "responses": ["It depends on the number of classes alloted. We make sure that an individual can learn effectively with all the available resources in an optimal time.Keeping in my mind the betterment of students and mentors we will divide the time in an efficient way."],
          "context": [""]
         },
         {"tag": "monitor",
@@ -209,6 +209,12 @@
          "responses": ["Yes"],
          "context": [""]
         }
+        {"tag": "Offline-classes",
+         "patterns": ["does my child get a certificate after the course completion?","Are any certificates provided?","are study materials provided?"],
+         "responses": ["Yes"],
+         "context": [""]
+        }
+
 
     ]
 }
