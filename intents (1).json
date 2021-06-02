@@ -32,7 +32,7 @@
         },
         {"tag": "coding",
          "patterns": ["Why coding is important?", "Why should my kid learn coding?", "Why coding is essential?","Is coding required at the age of 7?",
-                    "Is coding required at the age of 8?" ,"How coding is effective?",
+                    "Is coding required at the age of 8?" ,"How coding is effective?","Is coding hard to learn?",
                      "Is coding required at the age of 9?",
                      "Is coding required at the age of 10?",
                      "Is coding required at the age of 11?",
@@ -113,7 +113,7 @@
          "context": [""]
         },
         {"tag": "contact",
-         "patterns": ["How to contact the company?","contact the company","How to reach out to the company?","Are demo classes available?","Are there any offline classes held by CodeKaroYaro?","Are there any doubt clearance session?","Is EMI option available?","How to cancel the subscription?","any refund if we leave the course midway?"],
+         "patterns": ["How to contact the company?","contact the company","How to reach out to the company?","Are demo classes available?","Are there any offline classes held by CodeKaroYaro?","Are there any doubt clearance session?","Is EMI option available?","How to cancel the subscription?","any refund if we leave the course midway?","Where can I message or call for more details?"],
          "responses": ["you can call us on +91 8010996763 or you can drop a mail on info@codekaroyaaro.com"],
          "context": [""]
         },
@@ -208,7 +208,14 @@
          "patterns": ["does my child get a certificate after the course completion?","Are any certificates provided?","are study materials provided?"],
          "responses": ["Yes"],
          "context": [""]
+        },
+        {"tag": "Company details",
+         "patterns": ["Who is your founder?","When was your company started?"],
+         "responses": ["Manish Motghare founded Code Karo Yaaro in the year 2020. Our vision is to make every child literate in computer science and to generate a caliber of coding to enhance life experience. We want to develop the thinking ability of every child, by advancing computer science with new technologies and supporting them in a bright future."],
+         "context": [""]
         }
+        
+        
 
     ]
 }
