@@ -253,7 +253,7 @@
          {
          "tag": "cancelations-refunds",
          "patterns": ["How to cancel the subscription?","Is there a refund if we cancel my existing pack?","How to cancel the subscription?","any refund if we leave the course midway?"," Cancel my subscription"],
-         "responses": ["You can call us on +91 8010996763 or you can drop a mail on info@codekaroyaaro.com""],
+         "responses": ["You can call us on +91 8010996763 or you can drop a mail on info@codekaroyaaro.com"],
          "context": [""]
         }        
     ]
