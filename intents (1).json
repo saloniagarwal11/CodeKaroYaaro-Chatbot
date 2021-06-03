@@ -31,14 +31,14 @@
          "context": [""]
         },
         {"tag": "coding",
-         "patterns": ["Why coding is important?", "Why should my kid learn coding?", "Why coding is essential?","Is coding required at the age of 7?",
-                    "Is coding required at the age of 8?" ,"How coding is effective?","Is coding hard to learn?",
+         "patterns": ["Why coding is important?", "Why should my kid learn coding?", "Why coding is essential?","Is coding required at the age of 7?","how does coding help for future careers","Does coding help in improving personality?",
+                    "Is coding required at the age of 8?" ,"How coding is effective?","Is coding hard to learn?"," How do you maintain the interest of a younger child in coding who likes to play a lot too?",
                      "Is coding required at the age of 9?",
                      "Is coding required at the age of 10?",
                      "Is coding required at the age of 11?",
                      "Is coding required at the age of 12?",
                      "Is coding required at the age of 13?",
-                     "Is coding required at the age of 14?", "I want to have a look at the importance of coding", "Is coding needed?","Should the coding be taught at a younger age?","After seeing many ads of CodeKaroYaro my child has shown interest for coding.Is it good?","What is impact of coding on my child at this stage?" ],
+                     "Is coding required at the age of 14?"," Won't be there any stress/health issues for my kid if he continuously code at this early stage?", "I want to have a look at the importance of coding", "Is coding needed?","Should the coding be taught at a younger age?","After seeing many ads of CodeKaroYaro my child has shown interest for coding.Is it good?","What is impact of coding on my child at this stage?" ],
          "responses": ["Coding gives your child a competitive edge","Coding teaches persistence","Coding improves problem-solving skills","Coding improves creativity"],
          "context": [""]
         },
@@ -78,7 +78,7 @@
          "context": [""]
         },
         {"tag": "values",
-         "patterns": ["what values do your company have?","What are those values on your company is based on?","Company core values","how codekaroyaaro is better than byjus/other e-learning platforms?"],
+         "patterns": ["what values do your company have?","What are those values on your company is based on?","Company core values","how codekaroyaaro is better than byjus/other e-learning platforms?","what is importance of Computer Science Education for School children?"],
          "responses": ["We provide better Technologies,innovations,project based learning,Entrepreneurship,DesignThinkingApproach,Experienced and friendly instructors"],
          "context": [""]
         },
@@ -88,7 +88,7 @@
          "context": [""]
         },
         {"tag": "courseprice",
-         "patterns": ["what are the prices for the courses?","May I know about the course pricing","Price for a course"],
+         "patterns": ["what are the prices for the courses?","May I know about the course pricing","Price for a course","what will the total cost of this course?"],
          "responses": ["4500 INR for starter,8000 INR for intermediate and 12000 INR for professional"],
          "context": [""]
         },
@@ -113,8 +113,8 @@
          "context": [""]
         },
         {"tag": "contact",
-         "patterns": ["How to contact the company?","contact the company","How to reach out to the company?","Are demo classes available?","Are there any offline classes held by CodeKaroYaro?","Are there any doubt clearance session?","Is EMI option available?","How to cancel the subscription?","any refund if we leave the course midway?","Where can I message or call for more details?","Talk to teacher","Live Classes information"],
-         "responses": ["you can call us on +91 8010996763 or you can drop a mail on info@codekaroyaaro.com"],
+         "patterns": ["How to contact the company?"," Is there any reduction in cost/price for ST/SC/OBC students?","How to change teacher?", "I want to collaborate with your company .Can you tell me the details of MD?","How do we give our feedback on my child's learning?", "Teacher contact no.","contact the company","How to reach out to the company?","Are demo classes available?","Are there any offline classes held by CodeKaroYaro?","Are there any doubt clearance session?","Where can I message or call for more details?","Talk to teacher","Live Classes information","Do you have financial aid services?"," What is the main way tutors will interact — email, video chats, phone calls?","What if we want to switch the course?","What if we want to change the course?"],
+         "responses": ["You can call us on +91 8010996763 or you can drop a mail on info@codekaroyaaro.com"],
          "context": [""]
         },
         {"tag": "special",
@@ -128,12 +128,12 @@
          "context": [""]
         },
         {"tag": "offers",
-         "patterns": ["Are there any offers available for the professional course?","Are there any offers available for the intermediate course?","Are there any offers available for the starter course?","does a child get any concession in the fees if he/she is a merit student?","Is there a refund if we cancel my existing pack?"],
+         "patterns": ["Are there any offers available for the professional course?","Are there any offers available for the intermediate course?","Are there any offers available for the starter course?","does a child get any concession in the fees if he/she is a merit student?"," Is there any discount for the courses ?"],
          "responses": ["No such schemes as of now."],
          "context": [""]
         },
         {"tag": "suggestions",
-         "patterns": ["What could be a better course for my child?","Could you suggest any of the coureses?","Can my kid become a software engineer after attending these courses?","How to convince my child to join a course?","How does the course help him to do other chores such as homework etc?","Does the platform provide better experience than the other platforms?","What is best course for my kid"],
+         "patterns": ["What could be a better course for my child?","Could you suggest any of the coureses?","Can my kid become a software engineer after attending these courses?","How to convince my child to join a course?","How does the course help him to do other chores such as homework etc?","Does the platform provide better experience than the other platforms?","What is best course for my kid","Which language should our child learn first?"],
          "responses": ["It completely depends on the age and interest of an individual.Students need to be guided properly.You can contact us regarding this."],
          "context": [""]
         },
@@ -143,17 +143,17 @@
          "context": [""]
         },
         {"tag": "outcome",
-         "patterns": ["Can my child create an app on his own after finishing the course","how will my child will be benefited by this course?","Can my child build a game on his/her own?","Can my child write a program on his/her own?"],
+         "patterns": ["Can my child create an app on his own after finishing the course","how will my child will be benefited by this course?","Can my child build a game on his/her own?","Can my child write a program on his/her own?","Will he make an app at the end of the course?"],
          "responses": ["Ofcourse,a student can create/build apps with great ease after they finish their course."],
          "context": [""]
         },
         {"tag": "size",
-         "patterns": ["How many students in a class?","What is the strength of the class?","How do you divide many students across the same course?"],
+         "patterns": ["How many students in a class?","What is the strength of the class?","How do you divide many students across the same course?"," How many children are there per batch?"],
          "responses": ["It depends on the number of admissions we get.We make sure that an individual can learn effectively with all the available resources.Keeping in my mind the betterment of students and mentors we will divide the students in an efficient way."],
          "context": [""]
         },
         {"tag": "time",
-         "patterns": ["How much time is allocated for a class?","What is the duration of a class?","How many hours do you teach everyday?","How the time is allocated for the courses","what are most regular timings?"],
+         "patterns": ["How much time is allocated for a class?","What is the duration of a class?","How many hours do you teach everyday?","How the time is allocated for the courses","what are most regular timings?","How the distribution of the classes are made?"," How long is course promised for kid to learn the programming?"],
          "responses": ["It depends on the number of classes alloted. We make sure that an individual can learn effectively with all the available resources in an optimal time.Keeping in my mind the betterment of students and mentors we will divide the time in an efficient way."],
          "context": [""]
         },
@@ -209,7 +209,7 @@
          "responses": ["Yes"],
          "context": [""]
         },
-        {"tag": "Company details",
+        {"tag": "Company_details",
          "patterns": ["Who is your founder?","When was your company started?","what is code karo yaaro?","where is main branch of code karo yaaro","company details"],
          "responses": ["Manish Motghare founded Code Karo Yaaro in the year 2020. Code karo yaaro is Nagpur based company with a vision to make every child literate in computer science and to generate a caliber of coding to enhance life experience. We want to develop the thinking ability of every child, by advancing computer science with new technologies and supporting them for a bright future."],
          "context": [""]
@@ -222,7 +222,7 @@
         },
         {
          "tag": "payment_platforms",
-         "patterns": ["How can i do the payment?","Can i do payment digitally?","What payment options available","Payment options","can i pay fees in installments","Can I know the cost that we have pay per session?"],
+         "patterns": ["How can i do the payment?","Can i do payment digitally?","What payment options available","Payment options","can i pay fees in installments","Can I know the cost that we have pay per session?","Is EMI option available?","Can I pay in instalments?"],
          "responses": ["You can pay digitally!! just dial +918010996763 for more information"],
          "context": [""]
         },
@@ -237,8 +237,24 @@
          "patterns": ["Can I join for multiple courses at a time?","My kid wants to join multiple course","Are the batch times flexible?"],
          "responses": ["Yep! we will manage the classes after discussing with your designated instructor"],
          "context": [""]
-        }
-        
-    ]
+        },
+        {
+         "tag": "coding_language",
+         "patterns": ["what is java/python/html/.....?","What are the different coding languages?"],
+         "responses": ["1. Top 3 programming languages for kids who are 7 years and above : (a) Scratch (b) Alice (c) Blocky  2. Top 3 programming languages for kids who are 10 years and above: (a) JavaScript (b) Java (c)HTML+CSS 3. Top 3 programming languages for kids who are 14 years and above: (a) Python (b) C++ (c) C#"],
+         "context": [""]
+        },
+        {
+         "tag": "prerequisite",
+         "patterns": ["Do my child have to be good at math to be a coder?","Do my child have to be good at english to be a coder?", " Is there any requirements to join this course?","What are accommodations for students with special needs, or students learning English?"],
+         "responses": ["There are no prerequisites to join the course. Anyone can learn to code."],
+         "context": [""]
+        },
+         {
+         "tag": "cancelations-refunds",
+         "patterns": ["How to cancel the subscription?","Is there a refund if we cancel my existing pack?","How to cancel the subscription?","any refund if we leave the course midway?"," Cancel my subscription"],
+         "responses": ["You can call us on +91 8010996763 or you can drop a mail on info@codekaroyaaro.com""],
+         "context": [""]
+        }        
     ]
 }
