@@ -32,7 +32,7 @@
         },
         {"tag": "coding",
          "patterns": ["Why coding is important?", "Why should my kid learn coding?", "Why coding is essential?","Is coding required at the age of 7?",
-                    "Is coding required at the age of 8?" ,"How coding is effective?","Is coding hard to learn?",
+                    "Is coding required at the age of 8?" ,"How coding is effective?",
                      "Is coding required at the age of 9?",
                      "Is coding required at the age of 10?",
                      "Is coding required at the age of 11?",
@@ -217,6 +217,11 @@
         {"tag": "Offline-classes",
          "patterns": ["does my child get a certificate after the course completion?","Are any certificates provided?","are study materials provided?"],
          "responses": ["Yes"],
+         "context": [""]
+        },
+        {"tag": "coding_hard",
+         "patterns": ["Is coding hard to learn?","What can my child do to improve his/her coding skills?"],
+         "responses": ["No, coding is not hard to learn. However, like anything new, it's not easy to start, and how difficult a time one has with learning to code will vary across a number of factors. The point is, learning to code isn't impossible; or, it's not as impossible as it might seem when it comes to getting your kids involved. While learning to code might require them to tap into areas with which they don’t have prior experience, those who have the time, persistence, and dedication can learn to code just as they can learn to do something else."],
          "context": [""]
         }
     ]
